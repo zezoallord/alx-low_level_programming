@@ -1,8 +1,9 @@
 #include "main.h"
 /**
- * main - check the code
- *
- * Return: Always 0.
+ * _strpbrk - Entry point
+ * @s: input
+ * @accept: input
+ * Return: Always 0 (Success)
  */
 char *_strpbrk(char *s, char *accept)
 {
